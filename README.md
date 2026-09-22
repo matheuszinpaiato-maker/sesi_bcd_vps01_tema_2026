@@ -8,6 +8,49 @@ Um banco de dados de manutenção de equipamentos em uma fábrica, onde o objeti
 
 # Dicionário de dados em formato tabela MarkDown
 
+|Entidade|Atributo|Tipo|Tamanho|Descricao|
+|--|--|--|--|--|
+|Equipamento|id|int|11|Indentificador|
+|Equipamento|nome|varchar|100|Nome do Equipamento|
+|Equipamento|tipo|varchar|100|Tipo do equipamento|
+|Equipamento|marca|varchar|100|Marca do Equipamento|
+|Equipamento|modelo|varchar|100|Modelo do Equipamento|
+|Equipamento|numero_serie|varchar|11|Numero de Fabricacao do Equipamento|
+|Equipamento|data_aquisicao|date|20|Data da compra do Equipamento|
+|Equipamento|status|enum||Status do Equipamento|
+|Equipamento|setor|varchar|20|Onde esta o Equipamento|
+|Equipamento|valor_de_aquisicao|varchar|100|Valor de compra do Equipamento|
+|Ordem de Manutencao|id_ordem|int|11|Indentificador|
+|Ordem de Manutencao|id_equipamento|int|11|Indentificador|
+|Ordem de Manutencao|tipo|varchar|100|Tipo da manutencao|
+|Ordem de Manutencao|descricao|text|250+|Descricao do Conserto|
+|Ordem de Manutencao|data_abertura|date|20|Data da Abertura de Conserto|
+|Ordem de Manutencao|data_inicio|date|20|Data de inicio do Conserto|
+|Ordem de Manutencao|data_fim|date|20|Data do final do Conserto|
+|Ordem de Manutencao|status|enum||Status da Manutencao|
+|Ordem de Manutencao|prioridade|varchar|10|Prioridade da Manutencao|
+|Tecnico|id|int|11|Indentificador|
+|Tecnico|nome|varchar|100|Nome do Tecnico|
+|Tecnico|especialidade|text|250+|Especialidade do Tecnico|
+|Tecnico|telefone|varchar|15|Telefone do Tecnico|
+|Tecnico|email|varchar|100|Email do Tecnico|
+|Peca|id_peca|int|11|Indentificador|
+|Peca|nome |varchar|100|nome da Peca|
+|Peca|descricao|varchar|50|descricao da Peca|
+|Peca|quantidade_estoque|varchar|50|Quantidade da Peca|
+|Peca|estoque_minimo|varchar|50|Quantidade minima da Peca|
+|Peca|preco|decimal|10|2|Preco da Peca|
+|Manutencao|id_manutencao|int|11|Indentificador|
+|Manutencao|id_ordem|int|11|identificador|
+|Manutencao|id_tecnico|int|11|Indentificador|
+|Manutencao|descricao_servico|text|250+|Descricao da Manutencao|
+|Manutencao|data_execucao|date|20|Data da Manutencao|
+|Manutencao|horas_trabalhadas|varchar|5|Horas totais da Manutencao|
+|Manutencao|observacoes|text|250+|Observacoes da Manutencao|
+|Peca da Manutencao|id_manutencao|int|11|Indentificador|
+|Peca da Manutencao|id_peca|int|11|Indentificador|
+|Peca da Manutencao|quantidade|varchar|50|Quantidade da Peca|
+
 
 # Dados de teste em CSV
 
