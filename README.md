@@ -12,6 +12,8 @@ MER DER Logico
 
 
 # Dicionário de dados em formato tabela MarkDown
+<a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Equipamento.csv">equipamento.csv</a>
+
 
 |Entidade|Atributo|Tipo|Tamanho|Descricao|
 |--|--|--|--|--|
