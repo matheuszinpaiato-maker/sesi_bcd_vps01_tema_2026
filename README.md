@@ -4,6 +4,8 @@
 Um banco de dados de manutenção de equipamentos em uma fábrica, onde o objetivo é controlar os equipamentos, seu histórico de manutenção, os técnicos responsáveis, peças utilizadas e as ordens de serviço.
 
 # Imagens MER DER:
+MER DER Conceitual:
+<img src="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Conceitual%20.png">
 
 
 # Dicionário de dados em formato tabela MarkDown
