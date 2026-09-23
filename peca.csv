@@ -1,4 +1,5 @@
-id_peca;nome;descricao;quantidade_estoque;estoque_minimo;preco;;;
-1;prego;prego afiado;60;30;3;;;
-2;grampo;grampo para grampeador;60;30;3;;;
-3;cola;cola branca;60;30;3;;;
+|id_peca|nome|descricao|quantidade_estoque|estoque_minimo|preco|
+|-|-|-|-|-|-|
+|1|prego|prego afiado|60|30|3|
+|2|grampo|grampo para grampeador|60|30|3|
+|3|cola|cola branca|60|30|3|
