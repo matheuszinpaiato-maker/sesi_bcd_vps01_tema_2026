@@ -1,4 +1,5 @@
-id_manutencao;id_ordem;id_tecnico;descricao_servico;data_execucao;horas_trabalhadas;observacoes;;
-1;2;3;feito reparo no martelo;2;1;mais cuidado na próxima;;
-2;3;4;feito reparo no grampeador;2;1;foi tacado na parede sem dó;;
-3;4;5;feito reparo na empilhadeira;2;4;roda furada, juntas desgastadas;;
+|id_manutencao|id_ordem|id_tecnico|descricao_servico|data_execucao|horas_trabalhadas|observacoes|
+|-|-|-|-|-|-|-|
+|1|2|3|feito reparo no martelo|2|1|mais cuidado na prÃ³xima|
+|2|3|4|feito reparo no grampeador|2|1|foi tacado na parede sem dÃ³|
+|3|4|5|feito reparo na empilhadeira|2|4|roda furada, juntas desgastadas|
