@@ -8,7 +8,7 @@ MER DER Conceitual:
 <img src="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Conceitual%20.png">
 <br>
 MER DER Logico
-<img src="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Conceitual%20.png">
+<img src="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Logico.png">
 
 # Dicionário de dados em formato tabela MarkDown
 |Entidade|Atributo|Tipo|Tamanho|Descricao|
