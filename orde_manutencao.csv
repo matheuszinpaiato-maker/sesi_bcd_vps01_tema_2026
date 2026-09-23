@@ -1,0 +1,4 @@
+id_ordem;id_equipamento;tipo;descricao;data_abertura;data_inicio;data_fim;status;prioridade
+1;2;eletrônico;Consertado a placa de funcionamento da Empilhadeira;04/04/2025;05/04/2025;07/04/2025;RESOLVIDO;urgente
+2;3;eletrônico;Consertado;04/04/2025;05/04/2025;07/04/2025;RESOLVIDO;urgente
+3;4;ferramenta;Consertado do Martelo;05/05/2025;06/05/2025;06/05/2025;RESOLVIDO;não urgente
