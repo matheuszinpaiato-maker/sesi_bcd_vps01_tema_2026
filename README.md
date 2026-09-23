@@ -10,7 +10,7 @@ MER DER Conceitual:
 MER DER Logico
 <img src="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Conceitual%20.png">
 
-
+# Dicionário de dados em formato tabela MarkDown
 |Entidade|Atributo|Tipo|Tamanho|Descricao|
 |--|--|--|--|--|
 |Equipamento|id|int|11|Indentificador|
@@ -56,9 +56,11 @@ MER DER Logico
 
 
 # Dados de teste em CSV
-
-# Dicionário de dados em formato tabela MarkDown
-<a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Equipamento.csv">equipamento.csv</a>
+- <a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/Equipamento.csv">equipamento.csv</a>
+- <a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/manutencao.csv">manutencao.csv</a>
+- <a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/orde_manutencao.csv">ordem_manutemcao.csv</a>
+- <a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/peca.csv">peca.csv</a>
+- <a href="https://github.com/matheuszinpaiato-maker/sesi_bcd_vps01_tema_2026/blob/main/tecnico.csv">tecnico.csv</a>
 
 
 # Script SQL DDL (Desenvolvimanto: Criação do Banco de dados)
